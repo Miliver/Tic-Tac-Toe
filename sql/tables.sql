@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `tic-tac-toe`;
+CREATE DATABASE IF NOT EXISTS `tic-tac-toe`;
 
 CREATE TABLE IF NOT EXISTS `games` (
   `name` varchar(255) NOT NULL,
